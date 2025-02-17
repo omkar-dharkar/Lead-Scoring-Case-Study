@@ -1,5 +1,4 @@
 # Lead-Scoring-Case-Study
-Team Members:
 <div style="background: linear-gradient(to right, #ffd700, #ffcc33); color: #1e272e; padding: 20px; border-radius: 10px; font-family: 'Poppins', sans-serif; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); text-align: center;">
   <h2 style="font-size: 24px; color: #fff; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">✨ Team Members ✨</h2>
   <p style="font-size: 18px; font-weight: bold; margin-top: 10px;">
